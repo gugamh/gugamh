@@ -3,7 +3,6 @@
 ##
 <div align="center">
   <a href="https://github.com/gugamh"></a>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gugamh&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugamh&layout=compact&langs_count=7&theme=highcontrast"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugamh&show_icons=true&theme=highcontrast"/>
 </div>
